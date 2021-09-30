@@ -4,7 +4,9 @@
 
 ## Note
 
-## API endpoint
+We can use [sh-kawakami/tepco-watt-stats: くらしTEPCOのページから電力使用量情報を取得する](https://github.com/sh-kawakami/tepco-watt-stats). 
+
+## TEPCO API endpoint
 
 - hourly data
   - csv [https://www.kurashi.tepco.co.jp/pf/ja/pc/mypage/learn/comparison.page?ReqID=CsvDL&year=2021&month=9&day=28](https://www.kurashi.tepco.co.jp/pf/ja/pc/mypage/learn/comparison.page?ReqID=CsvDL&year=2021&month=9&day=28)
@@ -27,7 +29,7 @@ TODO: Refine
 - `/api/2021/09/29/json`
 - `/api/2021/09/29/csv`
 
-## Appendix: JSON API raw response
+## TEPCO API raw response
 
 ### Monthly
 
